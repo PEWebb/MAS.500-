@@ -6,4 +6,9 @@ Penny Webb and Jasmin Rubinovitz
 
 Has the conversation about bees increased between 2013 and 2014?
 
+### Installing :
 
+run: `pip install` - r requirement.txt`
+
+### Running :
+run: `HW1 Conversation about Bees.py`
